@@ -1,6 +1,6 @@
 # time_and_auth_server
 
-Overview
+Overview:
 This project implements a secure time and authentication server using SSL for secure communication. It includes functionality for generating self-signed certificates, managing server and client keys, a secure authentication server, and a secure time server and client.
 
 Features
